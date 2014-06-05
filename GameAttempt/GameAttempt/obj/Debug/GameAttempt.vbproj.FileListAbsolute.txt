@@ -1,0 +1,11 @@
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\GameAttempt\GameAttempt\bin\Debug\GameAttempt.exe
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\GameAttempt\GameAttempt\bin\Debug\GameAttempt.pdb
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\GameAttempt\GameAttempt\bin\Debug\GameAttempt.xml
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\GameAttempt\GameAttempt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\GameAttempt\GameAttempt\obj\Debug\GameAttempt.GameAttempt.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\GameAttempt\GameAttempt\obj\Debug\GameAttempt.Resources.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\GameAttempt\GameAttempt\obj\Debug\GameAttempt.vbproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\GameAttempt\GameAttempt\obj\Debug\GameAttempt.exe
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\GameAttempt\GameAttempt\obj\Debug\GameAttempt.xml
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\GameAttempt\GameAttempt\obj\Debug\GameAttempt.pdb
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\GameAttempt\GameAttempt\obj\Debug\GameAttempt.DKGame.resources
